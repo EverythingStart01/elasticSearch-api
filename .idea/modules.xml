@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/huang-es-api/huang-es-api.iml" filepath="$PROJECT_DIR$/huang-es-api/huang-es-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huang-es-jd/huang-es-jd.iml" filepath="$PROJECT_DIR$/huang-es-jd/huang-es-jd.iml" />
+    </modules>
+  </component>
+</project>
